@@ -4,7 +4,7 @@ var {Link} = require('react-router');
 var About = () => {
   return (
     <div>
-      <h1 className="text-center">About</h1>
+      <h1 className="text-center page-title">About</h1>
       <p>
         The Glutes Weather app is a React application that connects to <a href="http://openweathermap.org/">Open Weather Map</a> to
         allow you to find out the temperature in your chosen city.
